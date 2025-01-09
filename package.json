@@ -1,5 +1,5 @@
 {
-    "name": "pulumi-azure",
+    "name": "pulumi-basic",
     "main": "index.ts",
     "devDependencies": {
         "@types/node": "^18",
