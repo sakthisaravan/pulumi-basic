@@ -1,4 +1,4 @@
-name: pulumi-azure
+name: pulumi-basic
 description: A minimal TypeScript Pulumi program
 runtime:
   name: nodejs
